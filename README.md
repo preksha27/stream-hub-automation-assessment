@@ -19,7 +19,6 @@ streamhub-assessment/
 │   ├── env.js              # Environment config (no hardcoded URLs)
 │   └── world.js            # Cucumber world + browser lifecycle
 ├── AI_SELF_HEALING.md      # AI locator self-healing strategy
-├── FREE_FORM_ANSWERS.md    # Answers to subjective questions
 └── README.md
 ```
 
